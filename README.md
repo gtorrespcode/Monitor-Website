@@ -1,1 +1,1 @@
-Monitor Website using HTML, Javascript and css. 
+Monitor Website using HTML, Javascript and CSS. 
